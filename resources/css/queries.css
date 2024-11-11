@@ -25,7 +25,6 @@
     .iphoneimage
     {
         width: 100%;
-        position:relative;
     }
 
     .main-nav
@@ -182,7 +181,7 @@
 }
 @media only screen and (max-width:480px)
 {
-     html
+     html,body
     {
         width: 100%;
     }
