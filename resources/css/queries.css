@@ -197,6 +197,7 @@
     body
     {
         font-size:15px;
+        overflow:hidden;
     }
     .btn:link,
     .btn:visited
