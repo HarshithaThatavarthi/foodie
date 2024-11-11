@@ -7,7 +7,6 @@
     body
     {
         font-size: 18px;
-        position:relative;
      }
     section
     {
@@ -26,6 +25,7 @@
     .iphoneimage
     {
         width: 100%;
+        position:relative;
     }
 
     .main-nav
