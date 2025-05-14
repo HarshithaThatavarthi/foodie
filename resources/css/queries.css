@@ -181,6 +181,10 @@
 }
 @media only screen and (max-width:430px)
 {
+    .col 
+    {
+        width:100% !important;
+    }
      html,body
     {
         width:auto;
