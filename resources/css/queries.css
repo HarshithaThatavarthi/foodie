@@ -181,12 +181,9 @@
 }
 @media only screen and (max-width:430px)
 {
-    .col{
-        width:100%;
-    }
      html,body
     {
-        width:100%;
+        width:auto;
     }
     .iphoneimage
     {
