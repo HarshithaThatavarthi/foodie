@@ -179,14 +179,14 @@
         margin-left:0px;
     }
 }
-/*@media only screen and (max-width:430px)
+@media only screen and (max-width:430px)
 {
     .col{
         width:100%;
     }
      html,body
     {
-        width:auto;
+        width:100%;
     }
     .iphoneimage
     {
@@ -233,4 +233,4 @@
     {
     margin-bottom: 4px;
     }
-}*/
+}
